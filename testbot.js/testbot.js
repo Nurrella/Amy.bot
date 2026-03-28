@@ -43,4 +43,4 @@ client.once('ready', () => {
 });
 
 // 🔹 Buraya bot tokenini yaz
-client.login('MTQ4NTc0NzgzODI1MTE3MTkzMg.G-c7tb.uApo3ipRccf_6KY9Yinjb2X82Qf05ANmGed1Vg');
+client.login(process.env.TOKEN);
