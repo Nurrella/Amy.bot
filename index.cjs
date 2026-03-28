@@ -45,7 +45,6 @@ const client = new Client({
     partials: [User, Message, GuildMember, ThreadMember, Channel, DirectMessages],
 });
 
-client.config = require("./config.json");
 client.commands = new Collection();
 
 const prefix = ".";
