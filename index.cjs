@@ -87,8 +87,7 @@ Sunucumuza hoş geldin ${member}!
 
 Seninle birlikte **${uyeSayisi}** kişi olduk:) 🎉
 
-Kayıt olmak için ${sesKanal} kanalına geçebilirsin.
-Yetkililerimiz seninle ilgileneceklerdir.
+Kayıt olmak için ${sesKanal} kanalına geçebilirsin,Yetkililerimiz seninle ilgileneceklerdir.
 
 Sunucuya kayıt olmadan ${kuralKanal} kanalındaki kuralları oku, lütfen unutma kayıt olduğun andan itibaren kuralları kabul etmiş sayılacaksın.
 
